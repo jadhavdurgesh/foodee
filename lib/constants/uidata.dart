@@ -3,8 +3,7 @@ List<dynamic> categories = [
     "_id": "6537ece708ff5b7de97d0695",
     "title": "Fried Rice",
     "value": "fried_rice",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/4a4cd06e-94de-4478-8588-66eee01354d4-rice.png",
+    "imageUrl": "assets/foodly/fried_rice.png",
     "createdAt": "2023-10-24T16:12:23.571Z",
     "updatedAt": "2023-10-24T16:12:23.571Z",
     "__v": 0
@@ -13,58 +12,100 @@ List<dynamic> categories = [
     "_id": "65310f3381e4d98d60b093c5",
     "title": "Curry",
     "value": "curry",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/ee2d952c-1d7d-48f7-81b3-cb967343eb6c-curry.png",
+    "imageUrl": "assets/foodly/curry1.png",
     "__v": 0
   },
   {
     "_id": "6531206cbbe4998e90af3feb",
     "title": "Pizza",
     "value": "pizza",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/466693e6-f999-42e0-8794-09325ece1b45-Pizza.png",
+    "imageUrl": "assets/foodly/pizza1.png",
+    "__v": 0
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0703",
+    "title": "Biryani",
+    "value": "biryani",
+    "imageUrl": "assets/foodly/biryani.png",
     "__v": 0
   },
   {
     "_id": "6531209dbbe4998e90af3fef",
     "title": "Pasta",
     "value": "pasta",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/6645cf41-bc89-4dd0-9f80-bba9487633b2-Spaghetti.png",
+    "imageUrl": "assets/foodly/pasta.png",
     "__v": 0
   },
   {
     "_id": "653120babbe4998e90af3ff1",
     "title": "Beverages",
     "value": "beverages",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/93c4b3df-9e55-4308-a834-9fe4ad67c0b3-bar.png",
+    "imageUrl": "assets/foodly/beverages.png",
     "__v": 0
   },
   {
     "_id": "65312084bbe4998e90af3fed",
     "title": "Burgers",
     "value": "burgers",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/3c94bc09-b8b9-4961-accb-f68b7e8121cc-Hamburger.png",
+    "imageUrl": "assets/foodly/burger.png",
     "__v": 0
   },
   {
     "_id": "65310efb81e4d98d60b093c3",
     "title": "Chicken",
     "value": "chicken",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/139718b2-2832-40c5-8d7b-11fd9feb0aac-chicken.png",
+    "imageUrl": "assets/foodly/chicken1.png",
     "__v": 0
   },
   {
-    "_id": "653120e1bbe4998e90af3ff3",
-    "title": "More",
-    "value": "more",
-    "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/08323562-a3c6-461d-95a3-b3817c99871b-more.png",
+    "_id": "6537ece708ff5b7de97d0696",
+    "title": "Sushi",
+    "value": "sushi",
+    "imageUrl": "assets/foodly/sushi.png",
     "__v": 0
-  }
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0697",
+    "title": "Tacos",
+    "value": "tacos",
+    "imageUrl": "assets/foodly/tacos.png",
+    "__v": 0
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0699",
+    "title": "Rolls",
+    "value": "rolls",
+    "imageUrl": "assets/foodly/rolls.png",
+    "__v": 0
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0698",
+    "title": "Ice Cream",
+    "value": "icecream",
+    "imageUrl": "assets/foodly/icecream.png",
+    "__v": 0
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0700",
+    "title": "Cakes",
+    "value": "cakes",
+    "imageUrl": "assets/foodly/cakes.png",
+    "__v": 0
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0701",
+    "title": "Salad",
+    "value": "salad",
+    "imageUrl": "assets/foodly/salad.png",
+    "__v": 0
+  },
+  {
+    "_id": "6537ece708ff5b7de97d0702",
+    "title": "Sea Food",
+    "value": "sea_food",
+    "imageUrl": "assets/foodly/seafood.png",
+    "__v": 0
+  },
 ];
 
 const restaurants = [
@@ -73,11 +114,11 @@ const restaurants = [
     "title": "Lapisara Eatery",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/restaurant%20image%201.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719658353&Signature=9rdeD98ZLrhbbus0UbLdIBuDEP8%3D",
     "owner": "fdfsdfsdfs",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/logo1.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719674324&Signature=zs9Zikmlj7Cptr%2B4ldQ6B%2FM6aL8%3D",
     "rating": 5,
     "ratingCount": "6765",
     "coords": {
@@ -95,11 +136,11 @@ const restaurants = [
     "title": "Burger King",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://www.thespruceeats.com/thmb/UpVWAcHnFEe_KvQpYsR1a7U-WY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-your-best-grilled-burger-recipe-7511041-hero-C-c5080fa5f97c4c2b908968527f8a851b.jpg",
     "owner": "sjgdsjgfjshhjs",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/logo2.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719674356&Signature=N8J7A709ZiCWEN14OO7uLN82BLA%3D",
     "rating": 5,
     "ratingCount": "3278",
     "coords": {
@@ -117,11 +158,11 @@ const restaurants = [
     "title": "La Foods",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/restaurant%20image%203.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719658577&Signature=fGjb4oNMxxLfj1aymcDQFOpKsLI%3D",
     "owner": "fgdgdfgd",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/logo3.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=360001719674385&Signature=KzNuUP4NeAARGgisSUwAbS2mHqY%3D",
     "rating": 5,
     "ratingCount": "5666",
     "coords": {
@@ -139,11 +180,11 @@ const restaurants = [
     "title": "Italian Restaurant",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/restaurant%20image%202.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719658480&Signature=2lkNu%2B5ay0WRNkZ%2FLwmtzOBHzo0%3D",
     "owner": "sjgdsjgfjshhjs",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/logo4.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719674418&Signature=bb0RbaARDh3mrasc0T7Y8h4%2BEcU%3D",
     "rating": 5,
     "ratingCount": "3278",
     "coords": {
@@ -158,7 +199,7 @@ const restaurants = [
   }
 ];
 
-List <Map<String, dynamic>> foods = [
+List<Map<String, dynamic>> foods = [
   {
     "_id": "65316968f94c6496dc84f3c1",
     "title": "Tiramisu",
@@ -179,9 +220,8 @@ List <Map<String, dynamic>> foods = [
       {"id": 4, "title": "Cocoa", "price": "0.50"},
       {"id": 5, "title": "Sugar", "price": "0.50"}
     ],
-    "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
-    ,
+    "imageUrl":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/food1.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719674721&Signature=mOBAvSzCqr4P8v94VSnjmReYAaY%3D",
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
     "time": "35 min"
@@ -206,9 +246,8 @@ List <Map<String, dynamic>> foods = [
       {"id": 4, "title": "Black Pepper", "price": "0.50"},
       {"id": 5, "title": "Pasta", "price": "3.00"}
     ],
-    "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
-    ,
+    "imageUrl":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/Spaghetti.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719674812&Signature=Qf9yZ4l1AEKOnjkCdATFRZ%2FyXiM%3D",
     "__v": 2,
     "category": "6531209dbbe4998e90af3fef",
     "time": "20 min"
@@ -233,9 +272,8 @@ List <Map<String, dynamic>> foods = [
       {"id": 4, "title": "Cherry Tomatoes", "price": "1.00"},
       {"id": 5, "title": "Vinaigrette", "price": "0.50"}
     ],
-   "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
-    ,
+    "imageUrl":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/salad.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=3601719674887&Signature=9Amg43hGZ5Chk5B10ukb1gFVkwk%3D",
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
     "time": "55 min"
@@ -258,9 +296,8 @@ List <Map<String, dynamic>> foods = [
       {"id": 2, "title": "Pepperoni", "price": "2.50"},
       {"id": 3, "title": "Ketch up", "price": "0.50"}
     ],
-    "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
-    ,
+    "imageUrl":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/Margherita%20Pizza.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719674967&Signature=%2FOizf%2BfnUwy7kkyi8704NCnj6ck%3D",
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
     "time": "30 min"
@@ -285,9 +322,8 @@ List <Map<String, dynamic>> foods = [
       {"id": 4, "title": "Coconut Milk", "price": "1.50"},
       {"id": 5, "title": "Ice", "price": "0.50"}
     ],
-   "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
-    ,
+    "imageUrl":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/fruit%20smoothie.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719675085&Signature=vlqYCJ9KwRAIQCyhlZ45Q91CWOc%3D",
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
     "time": "25 min"
@@ -318,9 +354,8 @@ List <Map<String, dynamic>> foods = [
       {"id": 4, "title": "Pork", "price": "3.50"},
       {"id": 5, "title": "Barbecue Sauce", "price": "1.00"}
     ],
-    "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
-    ,
+    "imageUrl":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/Grill%20Platter.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719675224&Signature=DpRbHtulkYq%2B913FaKnCVolW3Gw%3D",
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
     "time": "45 min"
@@ -338,8 +373,8 @@ const cart = [
       "rating": 4.5,
       "ratingCount": "150",
       "imageUrl": [
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/margeritta-pizza-one.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001721370509&Signature=emu5w4wxLOU4JblHQn1oW9owPJM%3D",
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/margeritta-pizza-two.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001721370532&Signature=K8%2F0W%2BUnlwLrt4%2BOkWFguPHSNEo%3D"
       ]
     },
     "additives": ["Extra Cheese", "Mushrooms"],
@@ -358,7 +393,7 @@ const profile = {
   "address": [],
   "userType": "Vendor",
   "profile":
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/bdec9d7d-0544-4fc4-823d-3b898f6dbbbf-vinci_03.jpeg",
+      "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/profile2.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=1719677384&Signature=cWYtiWIf1Sl%2FQbWArhtAmLlRWvw%3D",
   "updatedAt": "2023-10-24T11:02:28.215Z"
 };
 
@@ -390,4 +425,52 @@ const choicesList = [
   },
 ];
 
-
+Map<String, Object> order = {
+  "_id": "656e03a1026b7246be03c220",
+  "userId": {
+    "_id": "656733c04be59c45c9ad66ed",
+    "phone": "0123456789",
+    "profile":
+        "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/profile2.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=1719677384&Signature=cWYtiWIf1Sl%2FQbWArhtAmLlRWvw%3D"
+  },
+  "orderItems": [
+    {
+      "foodId": {
+        "_id": "65316a01f94c6496dc84f3c7",
+        "title": "Tropical Fruit Smoothie",
+        "imageUrl": [
+          "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/smoothie.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719670246&Signature=Kb%2B%2BB4or0zt43rgviL%2BCC5oomXM%3D",
+          "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/smoothie1.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=360001719670313&Signature=hwPi84ee%2BJum6tNgeCOWFqR6eTs%3D"
+        ],
+        "time": "25 min"
+      },
+      "quantity": 1,
+      "price": 10.49,
+      "additives": ["Mango", "Coconut Milk"],
+      "instructions": "",
+      "_id": "656e03a1026b7246be03c221"
+    }
+  ],
+  "deliveryFee": 1.29,
+  "deliveryAddress": {"addressLine1": "1576, Tynwald South, Zimbabwe"},
+  "orderStatus": "Delivered",
+  "restaurantId": {
+    "_id": "65704ed9e38e13de7effaa7e",
+    "title": "Foodly",
+    "time": "8:00 am - 11:00 pm",
+    "imageUrl":
+        "https://firebasestorage.googleapis.com/v0/b/identity-5de1f.appspot.com/o/images%2F1701854206783_image_picker_7D9B07D9-4A91-40D6-8574-7D418F5C7F19-79544-000023AEB0CD5178.jpg?alt=media&token=56e8c6a7-ac25-4bdb-be5e-73fd2977a0aa",
+    "logoUrl":
+        "https://firebasestorage.googleapis.com/v0/b/identity-5de1f.appspot.com/o/images%2F1701854194989_image_picker_052C88FA-1C65-4EB2-BF30-866C861A848A-79544-000023ABF1705EC5.jpg?alt=media&token=ace1256a-ed65-4b26-a948-8cc63bf5db54"
+  },
+  "driverId": {
+    "_id": "655ca78e2d7b7beb36e9ce76",
+    "driver": {
+      "_id": "6534d5a5e8f831be96f4697f",
+      "username": "Andre",
+      "profile":
+          "https://dbestech-code.oss-ap-southeast-1.aliyuncs.com/foodly_flutter/icons/profile1.png?OSSAccessKeyId=LTAI5t8cUzUwGV1jf4n5JVfD&Expires=36001719673674&Signature=SbsUt1BMSEeodO9NfN8brtRP%2BNI%3D",
+      "phone": "0123456789"
+    }
+  }
+};

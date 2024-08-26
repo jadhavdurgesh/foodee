@@ -4,7 +4,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 String googleApiKey = '';
 
 
-double hieght = 825.h;
+double height = 825.h;
 double width = 375.w;
 
 
